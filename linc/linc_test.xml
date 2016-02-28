@@ -1,0 +1,10 @@
+<xml>
+	<files id='haxe'>
+		<compilerflag value='-DLINC_TEST'/>
+		<compilerflag value='-I${LINC_TEST_PATH}linc/'/>
+		<file name='${LINC_TEST_PATH}linc/linc_test.cpp' />
+	</files>
+
+	<target id="haxe">
+	</target>
+</xml>
